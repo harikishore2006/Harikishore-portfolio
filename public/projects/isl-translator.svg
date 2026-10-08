@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <rect width="800" height="520" rx="24" fill="#0b1020"/>
+  <rect x="80" y="90" width="640" height="320" rx="18" fill="rgba(15,23,42,0.9)" stroke="rgba(255,255,255,0.08)"/>
+  <circle cx="400" cy="220" r="90" fill="rgba(34,211,238,0.08)" stroke="rgba(34,211,238,0.35)"/>
+  <path d="M340 260c0-46 28-78 60-78s60 32 60 78-28 78-60 78-60-32-60-78zm18 0c0 32 18 56 42 56s42-24 42-56-18-56-42-56-42 24-42 56z" fill="rgba(255,255,255,0.85)"/>
+  <path d="M292 238l54 66 84-104 108 186" fill="none" stroke="rgba(34,211,238,0.8)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="250" y="370" width="300" height="46" rx="14" fill="rgba(10,25,30,0.8)" stroke="rgba(34,211,238,0.35)"/>
+  <text x="296" y="399" fill="rgba(224,242,254,0.95)" font-size="22" font-family="Arial">HELLO</text>
+</svg>

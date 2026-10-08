@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" fill="none">
+  <rect width="1200" height="800" fill="#171715"/>
+  <path d="M0 160H1200M0 320H1200M0 480H1200M0 640H1200M240 0V800M480 0V800M720 0V800M960 0V800" stroke="#F3F3F0" stroke-opacity=".08"/>
+  <circle cx="600" cy="390" r="238" stroke="#E7A847" stroke-opacity=".68" stroke-width="2"/>
+  <circle cx="600" cy="390" r="172" stroke="#F3F3F0" stroke-opacity=".24" stroke-width="2"/>
+  <circle cx="600" cy="390" r="106" stroke="#F3F3F0" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M362 390h476M600 152v476" stroke="#E7A847" stroke-opacity=".58" stroke-width="2"/>
+  <path d="M432 222l336 336M768 222 432 558" stroke="#F3F3F0" stroke-opacity=".3" stroke-width="2"/>
+  <circle cx="600" cy="152" r="11" fill="#E7A847"/>
+  <circle cx="838" cy="390" r="11" fill="#E7A847"/>
+  <circle cx="600" cy="628" r="11" fill="#E7A847"/>
+  <circle cx="362" cy="390" r="11" fill="#E7A847"/>
+  <circle cx="600" cy="390" r="18" fill="#F3F3F0"/>
+  <text x="64" y="736" fill="#F3F3F0" fill-opacity=".62" font-family="Arial, sans-serif" font-size="18" letter-spacing="5">QUANTUM SYSTEMS / 01</text>
+</svg>
