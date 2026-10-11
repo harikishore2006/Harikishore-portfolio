@@ -6,6 +6,10 @@ import { Section, SectionHeading } from "@/components/ui/Section";
 import { achievements } from "@/data/achievements";
 
 const certificationCourses = [
+  { name: "CSS 3", file: "css-3.pdf" },
+  { name: "HTML", file: "html.pdf" },
+  { name: "JavaScript", file: "javascript.pdf" },
+  { name: "Network & Web Technology", file: "network-web-technology.pdf" },
   { name: "Machine Learning with AI Applications", file: "machine-learning-ai-applications.jpg" },
 ];
 

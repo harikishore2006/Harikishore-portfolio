@@ -9,8 +9,10 @@ export const achievements: AchievementItem[] = [
     title: "Hackathons",
     description: "CMR Hackfest 3.0 finalist · 0x.Day participant · Tezario 24-hour hackathon participant",
     certificates: [
+      { name: "CMR Hackfest 3.0", file: "cmr-hackfest-3.pdf" },
       { name: "0x.Day", file: "ox-day.png" },
       { name: "Tezario Hackathon 2025", file: "tezario-hackathon-2025.jpg" },
+      { name: "FIESTAA’26", file: "fiestaa26-hackathon.pdf" },
     ],
   },
   {
@@ -37,8 +39,10 @@ export const achievements: AchievementItem[] = [
   },
   {
     title: "Paper Presentation",
-    description: "Paper presentations at FIESTAA’26 and MEQUESTA’24",
+    description: "Paper presentation certificates",
     certificates: [
+      { name: "Paper Presentation Certificate", file: "paper-presentation-harikishore.pdf" },
+      { name: "FIESTAA’26", file: "fiestaa26-paper-presentation.pdf" },
       { name: "MEQUESTA’24", file: "mequesta24-paper-presentation.png" },
     ],
   },

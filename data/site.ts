@@ -7,4 +7,5 @@ export const siteConfig = {
   linkedin: "https://www.linkedin.com/in/harikishore2006",
   leetcode: "https://leetcode.com/u/HariKishore_600/",
   whatsapp: "https://wa.me/919597714600",
+  resume: "/resume/Harikishore_Resume.pdf",
 };

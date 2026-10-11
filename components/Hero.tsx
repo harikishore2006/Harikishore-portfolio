@@ -6,6 +6,7 @@ import { InteractiveDNA } from "@/components/InteractiveDNA";
 import { MagneticLink } from "@/components/ui/MagneticLink";
 import { SocialLinks } from "@/components/ui/SocialLinks";
 import { TextReveal } from "@/components/ui/TextReveal";
+import { siteConfig } from "@/data/site";
 
 export function Hero() {
   const reduceMotion = useReducedMotion();
@@ -45,27 +46,14 @@ export function Hero() {
         </motion.p>
 
         <div className="mt-8 flex flex-wrap items-center gap-x-7 gap-y-4">
-  <MagneticLink
-    href="#projects"
-    className="group inline-flex items-center gap-3 border-b border-white/65 pb-2 text-sm font-semibold uppercase tracking-[0.1em] text-[#f3f3f0] transition-colors hover:border-[#67e8f9] hover:text-[#67e8f9]"
-  >
-    View my work
-    <span className="text-lg transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1">
-      ↗
-    </span>
-  </MagneticLink>
-
- <a
-  href="/Harikishore_Resume.pdf"
-  download="Harikishore_Resume.pdf"
-  className="group inline-flex items-center gap-3 border-b border-white/65 pb-2 text-sm font-semibold uppercase tracking-[0.1em] text-[#f3f3f0] transition-colors hover:border-[#67e8f9] hover:text-[#67e8f9]"
->
-  RESUME
-  <span className="text-lg transition-transform duration-300 group-hover:translate-y-1">
-    ↓
-  </span>
-</a>
-</div>
+          <MagneticLink
+            href="#projects"
+            className="group inline-flex items-center gap-3 border-b border-white/65 pb-2 text-sm font-semibold uppercase tracking-[0.1em] text-[#f3f3f0] transition-colors hover:border-[#67e8f9] hover:text-[#a5f3fc]"
+          >
+            View my work
+            <span className="text-lg transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1">↗</span>
+          </MagneticLink>
+        </div>
 
         <div className="mt-9">
           <SocialLinks tone="dark" />
